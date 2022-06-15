@@ -1,0 +1,25 @@
+*** GItlab Merge Request ***
+
+Gitlab
+	- Source Code Management ( SCM )
+		- it manages the source code like also GutHub and Gitee, sourceforge, bitBucket
+
+Cloning
+	- creates a copy of the code based to your dir/folder but this is still connected to the original repo
+
+	- Difference between downloaded and cloned
+		- downloaded will be not connected to the codebase BUT cloning can compare the difference to the original repo There is no copy in the local machine
+
+Pulling
+	- from cloud to local
+		- there is a local copy in the machine and we just need the updates
+
+
+SDLC
+	- Software development LifeCycle
+		- Planning
+		- Designing
+		- Development
+		- Testing
+		- Deployment
+			- THe deployment stage has 3 main stages within that ensure proper flow and testing happens before the deployment
